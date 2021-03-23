@@ -6,7 +6,7 @@ A lo largo de la historia del fútbol han existido equipos legendarios, desde el
 ####5. **Brasil de 1970**
 Mejor conocida como la brasil del *jogo bonito* de pelé, riverlino, jairzinho, leyendas del fútbol; es el romanticismo del fútbol en un equipo, pelé al que no le quedaba mucho pero seguía a un gran nivel, a rivelino que era un espectáculo y pues qué mas decir de este equipo si fué el que ganó el mundial de ese año.
 
-![Brasil 1970](Brasil1970)
+![Brasil 1970](Brasil1970.jpg)
 
 ####4. **Ajax 1971-73**
 Mejor conocido como el ajax de johan cruyff, este equipo ganó tres copas de europa, lo dirigió stefan kovacs, fué un equipo que cambió el fútbol porque no se centraba únicamente en la habilidad pura de los jugadores individualmente sino que creó por así decirlo el fútbol líquido, en el que los jugadores brillaban en su conjunto, una cosa que nunca se había visto en el fútbol hasta entonces.
