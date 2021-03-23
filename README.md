@@ -11,7 +11,7 @@ Mejor conocida como la brasil del *jogo bonito* de pelé, riverlino, jairzinho, 
 ####4. **Ajax 1971-73**
 Mejor conocido como el ajax de johan cruyff, este equipo ganó tres copas de europa, lo dirigió stefan kovacs, fué un equipo que cambió el fútbol porque no se centraba únicamente en la habilidad pura de los jugadores individualmente sino que creó por así decirlo el fútbol líquido, en el que los jugadores brillaban en su conjunto, una cosa que nunca se había visto en el fútbol hasta entonces.
 
-![Ajax 1971-73](C:\Users\Andrés\Documents\Github\PrimerRepo\Ajax1971)
+![Ajax 1971-73](Ajax1971.jpg)
 
 ####3. **Milan de Sacchi 1987-91**
 Este equipo de la misma manera que el Ajax innovó en el fútbol con una presión que ejercía en sus rivales, incluso goleó al real madrid en una semifinal de champions 5 a 0 y contaba con leyendas como Ban Basten, Frank Rijkaard y el Gullit, uno de los equipos más grandes de la historia.
