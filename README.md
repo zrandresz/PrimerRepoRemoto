@@ -16,17 +16,17 @@ Mejor conocido como el ajax de johan cruyff, este equipo ganó tres copas de eur
 ####3. **Milan de Sacchi 1987-91**
 Este equipo de la misma manera que el Ajax innovó en el fútbol con una presión que ejercía en sus rivales, incluso goleó al real madrid en una semifinal de champions 5 a 0 y contaba con leyendas como Ban Basten, Frank Rijkaard y el Gullit, uno de los equipos más grandes de la historia.
 
-![Milan de Sacchi](C:\Users\Andrés\Documents\Github\PrimerRepo\MilanSacchi)
+![Milan de Sacchi](MilanSacchi.jpg)
 
 ####2. **Real Madrid 1955-60**
 El Real Madrid de Alfredo di Stefano, el primer equipo que ganó la champions y lo que más tarde construyó la leyenda de club que tenemos hoy, cabe aclarar que el equipo que le pudo haber hecho competencia en esa época el Torino italiano sufrió una terrible tragedia en la que toda la plantilla falleció en un accidente aéreo pero esto no quita que este equipo fué capaz de ganar 5 champions consecutivas.
 
-![Real Madrid 1955-60](C:\Users\Andrés\Documents\Github\PrimerRepo\Madriddistefano)
+![Real Madrid 1955-60](Madriddistefano.jpg)
 
 ####1. **Fc Barcelona 2008-12**
 El Barca de Guardiola, en parte gracias a la increíble calidad de los canteranos del equipo en esa época y contando que tenía a el mejor jugador de la historia Lionel Messi así como uno de los mejores entrenadores, Guardiola, tenía un estilo de juego que era muy complicado de contrarrestar, con una posesión brutal y una presión que destrozaba uno tras otro a todos los grandes de europa, este equipo fué el primero en ganar el sextete, y quedará para la historia del fútbol como el equipo más impresionante a nivel dominio sobre el rival en la cancha que muchas generaciones han visto.
 
-![Fc Barcelona 2008-12](C:\Users\Andrés\Documents\Github\PrimerRepo\BarcaGuardiola)
+![Fc Barcelona 2008-12](BarcaGuardiola.jpg)
 
 ###*Otros rankings*
 ####https://futbolmoderno.eu/futbol-ayer/mejores-equipos-historia/
